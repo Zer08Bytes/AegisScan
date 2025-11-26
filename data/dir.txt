@@ -1,0 +1,10 @@
+index.php/cetools_admin/index
+/admin.php
+admin_login.php
+/admin/
+manager
+login.asp
+login.aspx
+index.php
+command_execution.php
+index.php/manage/login/index

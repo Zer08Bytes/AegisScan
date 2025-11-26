@@ -1,0 +1,10 @@
+addnew
+advnew
+_total
+add_new
+id
+cmd
+sid
+uid
+page
+allblogs
