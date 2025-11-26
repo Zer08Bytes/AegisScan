@@ -1,0 +1,18 @@
+{
+  "database": "data/scan_results.sqlite",
+
+  "crawler": {
+    "max_depth": 3,
+    "timeout": 8
+  },
+
+  "scanner": {
+    "max_concurrency": 5
+  },
+
+  "dingtalk": {
+    "enabled": true,
+    "webhook_url": "https://oapi.dingtalk.com/robot/send?access_token=XXXXX",
+    "secret": "XXXXXXXXXXX"
+  }
+}
