@@ -1,0 +1,6 @@
+admin
+administrator
+sa
+root
+test
+sys
