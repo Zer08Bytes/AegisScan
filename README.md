@@ -39,5 +39,6 @@ https://www.bilibili.com/video/BV1JvUhB6Ez8/?vd_source=229f70258c44853078f16a5de
       Travis 机器人：出色的项目与事务跟踪工具。
       
 3.获取机器人 Webhook 地址。
+
 4：把上面的webhook URL和 secret的值填入到config.json的对应位置。
 
