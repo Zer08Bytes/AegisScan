@@ -42,3 +42,10 @@ https://www.bilibili.com/video/BV1JvUhB6Ez8/?vd_source=229f70258c44853078f16a5de
 
 4：把上面的webhook URL和 secret的值填入到config.json的对应位置。
 
+20251129更新状态：
+1、新增了指纹识别
+<img width="1150" height="679" alt="图片" src="https://github.com/user-attachments/assets/acb43c1d-6c01-46fe-9189-385900866703" />
+2、优化了并发线程，适配8G内存的老机器和16G及以上内存的新机器，内存越大，跑起来越快。
+3、感谢我们群内某个大佬提醒，修复了授权bug（发布版本里面，我误把授权检测函数注释掉了）
+
+
