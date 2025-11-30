@@ -48,6 +48,7 @@ https://www.bilibili.com/video/BV1JvUhB6Ez8/?vd_source=229f70258c44853078f16a5de
 或
 <img width="1810" height="1313" alt="图片" src="https://github.com/user-attachments/assets/5e37bd2d-ac56-42e5-a439-559ce6aa321b" />
 
+提示：哪个大佬，能提供一下指纹与POC的映射关系，提供相应的POC，目前个人太忙了，没时间整理映射关系。
 
 2、优化了并发线程，适配8G内存的老机器和16G及以上内存的新机器，内存越大，跑起来越快。
 
